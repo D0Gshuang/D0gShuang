@@ -1,5 +1,5 @@
 ### Hi there 👋
-I 'am D0gshuang
+I 'am D0gShuang
 
 <!--
 **D0Gshuang/D0gShuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
