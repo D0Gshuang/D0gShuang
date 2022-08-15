@@ -1,4 +1,5 @@
 ### Hi there 👋
+I 'am D0gshuang
 
 <!--
 **D0Gshuang/D0gShuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤡 Shit programmer
+🐕 C/C++
+😄 Like Shellcode
+
